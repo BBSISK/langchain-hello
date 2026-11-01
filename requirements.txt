@@ -1,0 +1,7 @@
+langchain-core>=1.7,<2
+langchain-openai>=1.7,<2
+langchain-text-splitters>=1.1,<2
+azure-identity>=1.19
+pydantic>=2.7
+pytest>=8
+numpy>=1.26
